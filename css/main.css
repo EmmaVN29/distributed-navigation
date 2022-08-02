@@ -30,12 +30,12 @@ header {
 
 nav ul {
   list-style-type: none;
-  padding: 1rem;
+  padding: 0 1rem;
   display: flex;
 }
 
 nav ul li {
-  padding: 1rem;
+  padding: 0 1rem;
 }
 
 nav a {
